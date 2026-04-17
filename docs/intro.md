@@ -3,7 +3,7 @@
 This is a collection of notebooks that sets up a nested Regional Ocean Modeling System (ROMS) domain in Hvalfjörður, Iceland using ROMS-TOOLS and conducts comprehensive model-observation comparisons. The notebooks document the complete workflow from model configuration and forcing file preparation to validation against field observations and analysis of Ocean Alkalinity Enhancement (OAE) experiments.
 
 % A figure of a photograph of some mountains, followed by a caption
-:::{figure} https://github.com/ubbu36/C-Star-in-Hvalfjordur/blob/main/20240718_THRAINN_534860.jpg
+:::{figure} ../images/20240718_THRAINN_534860.jpg
 :label: fig:fjord
 
 A photograph of Hvalfjörður, Iceland. July 2024
