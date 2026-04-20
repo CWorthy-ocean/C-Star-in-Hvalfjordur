@@ -16,6 +16,7 @@ project:
     - file: notebooks/setup/setup_iceland2.ipynb
     - file: notebooks/setup/setup_iceland3.ipynb
     - file: notebooks/passive_tracer_setup.ipynb
+    - file: notebooks/CDR_forcing_creation.ipynb
     - file: notebooks/ctd_comparison.ipynb
     - file: notebooks/oae_analysis.ipynb
     - file: notebooks/bgc_analysis.ipynb
@@ -28,7 +29,7 @@ project:
     - file: notebooks/grid_overview.ipynb
     - file: notebooks/velocity_analysis.ipynb
     - file: notebooks/pCO2_bias_calculation.ipynb
-    - file: notebooks/wind_conditions.ipynb
+    - file: notebooks/wind_conditions-Copy1.ipynb
 site:
   template: book-theme
   options:
