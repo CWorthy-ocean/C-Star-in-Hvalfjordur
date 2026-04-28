@@ -15,6 +15,7 @@ project:
     - file: notebooks/setup/setup_iceland1.ipynb
     - file: notebooks/setup/setup_iceland2.ipynb
     - file: notebooks/setup/setup_iceland3.ipynb
+    - file: notebooks/obs_data_staging.ipynb
     - file: notebooks/passive_tracer_setup.ipynb
     - file: notebooks/CDR_forcing_creation.ipynb
     - file: notebooks/ctd_comparison.ipynb

@@ -21,3 +21,5 @@ Gemfile.lock
 **/__pycache__
 **/Untitled*.ipynb
 **/*-copy*.ipynb*
+data/raw/
+data/staged/
