@@ -21,6 +21,7 @@ project:
     - file: notebooks/ctd_comparison.ipynb
     - file: notebooks/OAE_ensemble.ipynb
     - file: notebooks/oae_analysis.ipynb
+    - file: notebooks/detectability_limits.ipynb
     - file: notebooks/bgc_analysis.ipynb
     - file: notebooks/model_solution.ipynb
     - file: notebooks/dye_movie.ipynb
